@@ -1,12 +1,12 @@
 
 # Variables in Python
 
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
-country = 'Finland'
-city = 'Helsinki'
-age = 250
-is_married = True
+first_name = 'Min Khant'
+last_name = 'Naing'
+country = 'Myanmar'
+city = 'Monywa'
+age = 22
+is_married = False
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
     'firstname': 'Asabeneh',
